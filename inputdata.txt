@@ -1,0 +1,7 @@
+11Dallas|Austin|98Austin|Houston|95Dallas|Houston|101Austin|Chicago|144Atlanta|Dallas|250
+California|Hawaii|1000
+Dallas|California|275
+Dallas|Hawaii|1400
+Chicago|Boston|157
+Boston|New York|90
+Dallas|New York|500
